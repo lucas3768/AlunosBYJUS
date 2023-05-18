@@ -1,0 +1,33 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    /*aumentar fonte*/
+  }
+
+  .headingDiv
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    /*add margem externa*/
+  }
+
+  .headingDiv2
+  {
+    font-size: 18px ;
+  }
+
+  .result
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+canvas    {
+  border: 5px solid rgb(3, 4, 2);
+ border-radius: 2%;
+ margin-top: 50px;
+}
+
